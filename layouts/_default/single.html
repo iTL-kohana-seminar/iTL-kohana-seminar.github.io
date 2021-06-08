@@ -1,0 +1,26 @@
+{{ partial "header.html" .}}
+
+<h1>{{ .Title }}</h1>
+
+<div class="firstView">
+    {{ $x := .Title }}
+    {{ if eq $x "Posts" }}
+        <img src="/images/posts.png" alt="" class="firstView_image">
+    {{else if eq $x "About" }}
+        <img src="/images/about.png" alt="" class="firstView_image">
+    {{else if eq $x "Teacher" }}
+        <img src="/images/teacher.png" alt="" class="firstView_image">
+    {{else if eq $x "Members" }}
+        <img src="/images/members.png" alt="" class="firstView_image">
+    {{else if eq $x "Researches" }}
+        <img src="/images/researches.png" alt="" class="firstView_image">
+    {{ end }}
+
+    
+</div>
+
+<p>Hello World</p>
+
+{{ .Content  }}
+
+{{ partial "footer.html"}}

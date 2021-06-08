@@ -1,0 +1,43 @@
+baseURL = "https://mynewhugosite.com"
+title = "小花ゼミ"
+
+[menu]
+  [[menu.main]]
+    identifier = ""
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "teacher"
+    name = "Teacher"
+    url = "/teacher"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "members"
+    name = "Members"
+    url = "/members"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "researches"
+    name = "Researches"
+    url = "/researches"
+    weight = 50
+
+publishDir = "docs"
+# パスの指定。これをしないとcssがうまく反映されません。
+canonifyurls = true
