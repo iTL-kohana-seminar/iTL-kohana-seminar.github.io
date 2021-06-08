@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on 小花ゼミ</title>
+    <link>https://mynewhugosite.com/</link>
+    <description>Recent content in Home on 小花ゼミ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Jun 2021 18:35:18 +0900</lastBuildDate><atom:link href="https://mynewhugosite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ren</title>
+      <link>https://mynewhugosite.com/posts/ren/</link>
+      <pubDate>Sat, 05 Jun 2021 18:35:18 +0900</pubDate>
+      
+      <guid>https://mynewhugosite.com/posts/ren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://mynewhugosite.com/posts/hello/</link>
+      <pubDate>Sat, 05 Jun 2021 02:40:23 +0900</pubDate>
+      
+      <guid>https://mynewhugosite.com/posts/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://mynewhugosite.com/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Jun 2021 17:27:59 +0700</pubDate>
+      
+      <guid>https://mynewhugosite.com/posts/my-first-post/</guid>
+      <description>Here&amp;rsquo;s an example blog post.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mynewhugosite.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mynewhugosite.com/about/</guid>
+      <description>Here&amp;rsquo;s a bit about me.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://mynewhugosite.com/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mynewhugosite.com/members/</guid>
+      <description>members</description>
+    </item>
+    
+    <item>
+      <title>Researches</title>
+      <link>https://mynewhugosite.com/researches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mynewhugosite.com/researches/</guid>
+      <description>researches</description>
+    </item>
+    
+    <item>
+      <title>Teacher</title>
+      <link>https://mynewhugosite.com/teacher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mynewhugosite.com/teacher/</guid>
+      <description>teacher</description>
+    </item>
+    
+  </channel>
+</rss>

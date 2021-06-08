@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mynewhugosite.com/</loc>
+    <lastmod>2021-06-05T18:35:18+09:00</lastmod>
+  </url><url>
+    <loc>https://mynewhugosite.com/posts/</loc>
+    <lastmod>2021-06-05T18:35:18+09:00</lastmod>
+  </url><url>
+    <loc>https://mynewhugosite.com/posts/ren/</loc>
+    <lastmod>2021-06-05T18:35:18+09:00</lastmod>
+  </url><url>
+    <loc>https://mynewhugosite.com/posts/hello/</loc>
+    <lastmod>2021-06-05T02:40:23+09:00</lastmod>
+  </url><url>
+    <loc>https://mynewhugosite.com/posts/my-first-post/</loc>
+    <lastmod>2021-06-03T17:27:59+07:00</lastmod>
+  </url><url>
+    <loc>https://mynewhugosite.com/about/</loc>
+  </url><url>
+    <loc>https://mynewhugosite.com/categories/</loc>
+  </url><url>
+    <loc>https://mynewhugosite.com/members/</loc>
+  </url><url>
+    <loc>https://mynewhugosite.com/researches/</loc>
+  </url><url>
+    <loc>https://mynewhugosite.com/tags/</loc>
+  </url><url>
+    <loc>https://mynewhugosite.com/teacher/</loc>
+  </url>
+</urlset>
