@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on 小花ゼミ</title>
-    <link>https://mynewhugosite.com/news/</link>
+    <link>https://itl-kohana-seminar.github.io/news/</link>
     <description>Recent content in News on 小花ゼミ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Jun 2021 18:35:18 +0900</lastBuildDate><atom:link href="https://mynewhugosite.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 18:35:18 +0900</lastBuildDate><atom:link href="https://itl-kohana-seminar.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ren</title>
-      <link>https://mynewhugosite.com/news/ren/</link>
+      <link>https://itl-kohana-seminar.github.io/news/ren/</link>
       <pubDate>Sat, 05 Jun 2021 18:35:18 +0900</pubDate>
       
-      <guid>https://mynewhugosite.com/news/ren/</guid>
+      <guid>https://itl-kohana-seminar.github.io/news/ren/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://mynewhugosite.com/news/hello/</link>
+      <link>https://itl-kohana-seminar.github.io/news/hello/</link>
       <pubDate>Sat, 05 Jun 2021 02:40:23 +0900</pubDate>
       
-      <guid>https://mynewhugosite.com/news/hello/</guid>
+      <guid>https://itl-kohana-seminar.github.io/news/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://mynewhugosite.com/news/my-first-post/</link>
+      <link>https://itl-kohana-seminar.github.io/news/my-first-post/</link>
       <pubDate>Thu, 03 Jun 2021 17:27:59 +0700</pubDate>
       
-      <guid>https://mynewhugosite.com/news/my-first-post/</guid>
+      <guid>https://itl-kohana-seminar.github.io/news/my-first-post/</guid>
       <description>Here&amp;rsquo;s an example blog post.</description>
     </item>
     
