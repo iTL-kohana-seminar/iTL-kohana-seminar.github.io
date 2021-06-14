@@ -9,9 +9,9 @@ title = "小花ゼミ"
     weight = 1
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
+    identifier = "news"
+    name = "News"
+    url = "/news"
     weight = 10
 
   [[menu.main]]
